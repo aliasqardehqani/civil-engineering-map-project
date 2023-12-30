@@ -3,6 +3,7 @@ Two Python codes; Each of them is a series of data and its graph is displayed wi
 
 ```
     pip install numpy
+```
+```
     pip install matplotlib
-    
 ```
